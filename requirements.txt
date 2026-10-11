@@ -1,6 +1,8 @@
-streamlit
-numpy
-qiskit
-qiskit-aer
-matplotlib
-pylatexenc
+   streamlit==1.45.1
+   numpy==2.2.6
+   pandas==2.2.3
+   pyarrow==20.0.0
+   matplotlib==3.10.3
+   qiskit==2.1.1
+   qiskit-aer==0.17.1
+   pylatexenc==2.10
